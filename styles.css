@@ -55,7 +55,7 @@ h4 {
 h2 {
     text-align: left;
     margin-left: 20px;
-    transition: color 0.3s ease; /* Suaviza la transición del color */
+    transition: color 0.3s ease; 
 }
 
 h2:hover {
